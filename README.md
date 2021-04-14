@@ -3,3 +3,4 @@
 1. make Anton chief
 2. let others work
 3. shine!
+4. rule the world!
