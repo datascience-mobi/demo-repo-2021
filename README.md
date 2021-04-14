@@ -4,3 +4,4 @@
 2. let other's work
 3. shine!
 4. relax
+5. do nothing
